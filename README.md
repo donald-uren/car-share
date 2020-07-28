@@ -1,5 +1,4 @@
-# Programming Internet of Things
-Private repo for Assignment 2 & 3 - Car Share Application
+# Car Share Application
 
 ## Table of contents
 1. [About](#about-the-project)
